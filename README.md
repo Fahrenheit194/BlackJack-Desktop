@@ -5,6 +5,11 @@ It implements standard game rules, betting logic, deck management, and ace handl
 
 Originally developed in 2024 and revised for improved structure in 2025.
 
+## Tech Stack
+
+- Java
+- Java Swing GUI
+
 ## Features
 - Full Blackjack ruleset (Hit, Stand, Double)
 - Dealer rules (hit on <= 16, stand on >= 17)
@@ -74,3 +79,4 @@ The round outcome is displayed and the bankroll is updated accordingly.
 ## License
 
 MIT
+
